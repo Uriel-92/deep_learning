@@ -5,3 +5,5 @@ System that creates a Siamese neural network for the identification of people.
 - The main library I used is tensorflow.
 
 - I recommend a use a good camera for better results.
+
+- For the neural network design http://www.cs.toronto.edu/~gkoch/files/msc-thesis.pdf .
