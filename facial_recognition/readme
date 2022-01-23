@@ -1,1 +1,7 @@
+System that creates a Siamese neural network for the identification of people. 
 
+- The system compares two sets of images: the people who were determined to be positive and those who were determined to be negative. For positive images, create my own set. For negative images, use an external database (http://vis-www.cs.umass.edu/lfw/).
+
+- The main library I used is tensorflow.
+
+- I recommend a use a good camera for better results.
